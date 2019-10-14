@@ -297,7 +297,7 @@
 		"@types/debug": "4.1.4",
 		"@types/lodash": "4.14.144",
 		"@types/page": "1.8.0",
-		"@types/react": "16.8.16",
+		"@types/react": "16.9.6",
 		"@types/react-redux": "5.0.21",
 		"@types/webpack-env": "1.14.0",
 		"@typescript-eslint/eslint-plugin": "1.10.2",
