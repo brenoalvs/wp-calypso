@@ -89,7 +89,8 @@ export default {
 
 	'site-topic': {
 		stepName: 'site-topic',
-		providesDependencies: [ 'siteTopic' ],
+		providesDependencies: [ 'siteTopic', 'themeSlugWithRepo' ],
+		optionalDependencies: [ 'themeSlugWithRepo' ],
 	},
 
 	'site-topic-and-title': {
